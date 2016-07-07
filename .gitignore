@@ -90,3 +90,6 @@ ENV/
 
 #sqlite databases
 *.sqlite3
+
+#Production settings. To scrub sensitive information from Django settings
+trackurtime/settings_pro.py
